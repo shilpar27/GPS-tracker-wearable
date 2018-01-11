@@ -1,4 +1,4 @@
-# Tracker-wearable
+# GPS-Tracker-Wearable
  Real time tracking wearable device with Adafruit’s FLORA and FONA module with a built in GPS module. 
  
  Our proposed system based on Adafruit FLORA V3 and FONA 3G is an effective, portable and low-power consumption live tracking wearable device. 
