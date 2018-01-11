@@ -45,7 +45,7 @@ void setup() {
 char fonaNotificationBuffer[64];          
 char smsBuffer[250];
 
-const String mobile [] = {"+14379903928","+12899806887","+16044401949"};
+const String mobile [] = {"+1......","+1.......","+1......."}; // Add the mobile numbers
 
 void loop() {
   
